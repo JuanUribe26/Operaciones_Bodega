@@ -54,20 +54,3 @@ al igual que en actualizar dato pide el id y luego de borra de la siguiente mane
 
 ![image](https://github.com/user-attachments/assets/d1216334-6586-4ea9-bc27-a681d3021969)
 
-
-
-
-
-
-
-
-
-
-
-
-Vamos a seguir con 
-
-
-
-
-
